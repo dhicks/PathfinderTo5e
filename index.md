@@ -219,9 +219,18 @@ Ranger joke, too :-(
 	- TC gives an alternative to the animal companion (61) that addresses a lot of those problems.  
 
 	
-# Tasha's Cauldron #
+# Major Supplements #
+The two major supplement books are XGE (Xanathar's Guide to Everything) and TC (Tasha's Cauldron).  
+
+## Xanathar's Guide to Everything ##
+XGE primarily adds subclasses for every class, and an assortment of spells.  
+
+- Many of the spells are elemental-themed. 
+
+## Tasha's Cauldron ##
 TC adds a number of subclasses, class features, and variant class features designed to enable versatility.  
 
 - Most spellcasting classes get options to periodically switch out cantrips or known spells. 
 - Fighters and Rangers have more fighting style options and the option to periodically switch out fighting styles.  
 - TC collects together and republishes spells, subclasses, and one class (Artificer) published in various setting book. 
+- Many of the spells and some of the subclasses are psychic themed. 
