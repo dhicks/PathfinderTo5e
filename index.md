@@ -18,6 +18,8 @@ Abbreviations:
 
 - 3P: DnD 3.x and Pathfinder
 - PHB: 5e *Player's Handbook*
+- XGE: *Xanathar's Guide to Everything*
+- TC: *Tasha's Cauldron*
 - WotC: Wizards of the Coast
 - BG3 EA: *Baldur's Gate 3 (Early Access)*, as of patch 3 (early December 2020)
 
@@ -139,6 +141,9 @@ The relationship between spells known, spells prepared, and spell slots is loose
 ## Cantrips ##
 All primary spellcasters have access to damage-dealing cantrips.  Unless you have a melee combat subclass, these will generally do more damage than your weapon attacks.  
 
+## Casting multiple spells per round ##
+A creature can cast only 1 spell per round *unless* they cast a cantrip with their action and another spell with their bonus action. 
+
 ## Spellcasting and armor ##
 A PC can cast a spell while wearing armor if, and only if, the PC is proficient in the armor they're wearing.  
 
@@ -158,7 +163,7 @@ Concentration is not used to cast every spell.  Instead, certain spells (primari
 # Class Notes #
 
 ## Warlocks ##
-Until the Artificer class was published in the *Eberron* setting books, the Warlock was the most complex class in 5e.  Maybe this means it feels the most like a 3P class?  
+Until the Artificer class was published in the *Eberron* setting books (and again in TC), the Warlock was the most complex class in 5e.  Maybe this means it feels the most like a 3P class?  
 
 - Major choices are
 	- Patron: 3 options in PHB, and many more in supplements
@@ -203,10 +208,20 @@ I think my druid joke got deleted somehow
 	- But there is a note in the Druid's armor proficiencies that they "won't" use metal armor or shields. 
 - All Druids have access to Wildshape.  
 	- The default Wildshape is more useful for scouting than combat.  
-	- It's much more powerful for Circle of the Moon Druids: bonus action to use, much higher CR, attacks count as magical starting at level 6, and the ability to Wild Shape into an elemental at level 10.  Circle of the Moon Wildshape is supposed to scale well until somewhere around level 12.  
+	- It's much more powerful for Circle of the Moon Druids: bonus action to use, much higher CR, attacks count as magical starting at level 6, and the ability to Wild Shape into an elemental at level 10.  
+		- Circle of the Moon Wildshape is supposed to scale well until somewhere around level 12.  
 
 ## Ranger ##
 Ranger joke, too :-(
 
-- Only Beastmasters get an animal companion.  
+- Only Beast Masters get an animal companion.  
 	- Unfortunately the animal companion is kind of terrible.  It's capped at CR 1/4 (hawk, mastiff, panther), gets the same HP as a Wizard but is expected to be in melee and doesn't have protective magic, doesn't get *any* saving throw bonuses, and can only attack if you give up one of your own attacks.  
+	- TC gives an alternative to the animal companion (61) that addresses a lot of those problems.  
+
+	
+# Tasha's Cauldron #
+TC adds a number of subclasses, class features, and variant class features designed to enable versatility.  
+
+- Most spellcasting classes get options to periodically switch out cantrips or known spells. 
+- Fighters and Rangers have more fighting style options and the option to periodically switch out fighting styles.  
+- TC collects together and republishes spells, subclasses, and one class (Artificer) published in various setting book. 
