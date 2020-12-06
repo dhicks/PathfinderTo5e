@@ -126,23 +126,45 @@ When a PC is reduced to 0 hit points, they become Unconscious and must make a De
 
 # Magic Stuff #
 
+## Spell Descriptions ##
+**Do not assume spells with the same name have the same effect between P3 and 5e.**  Many spells work quite a bit differently.  
+
 ## Spellcasting ##
 The relationship between spells known, spells prepared, and spell slots is looser than in 3P.  
 
 - Clerics and Druids "know" all spells of the appropriate levels, as usual. 
 - Other spellcasters get the opportunity to learn additional spells on each level.  There's a cap on the level of spells they have access to, but they can pick from the entire range. For example, when hitting level 6 a Wizard gets to learn any two spells of levels 1-3 (on the Wizard Spell List).  If they want, they can take a level 1 spell and a level 2 spell.  
-- Clerics, Druids, and Wizards have to prepare spells during each long rest.  The *total number* of spells they can prepare is based on their spellcasting ability (Wisdom or Intelligence) and level, not the distribution of spell slots.  So our level 6 Wizard could prepare all 1st and 2nd level spells, and not prepare any 3rd level spells.  Or all 3rd and 2nd level, and no 1st level.  
+- Clerics, Druids, and Wizards have to prepare spells during each long rest.  The *total number* of spells they can prepare is based on their spellcasting ability (Wisdom or Intelligence) and level, **not the distribution of spell slots**.  So our level 6 Wizard could prepare all 1st and 2nd level spells, and not prepare any 3rd level spells.  Or all 3rd and 2nd level, and no 1st level.  
+	- Spells are not prepared at any particular level.  
 - Other primary casters (Bards, Sorcerers, and Warlocks) don't prepare spells, but know a significantly smaller set of spells than a Wizard.  
 - Most half-casters (Eldritch Knight, Arcane Trickster, Ranger) work like Wizards; Paladins work like Clerics for some reason. 
-- Spell slots are used to cast spells.  The level of spell sets the minimum slot that can be used to cast the spell.  Spells can be upcast or heightened using a higher-level slot.  Note that this is done at the moment of casting, not during preparation.  
 - Some spellcasters can cast ritual magic.  Ritual spells are indicated in the spell list.  If prepared (or known, for Wizards) a ritual spell can be cast in 10 minutes without using a spell slot. 
 - **In BG3 EA** "preparation" is currently meaningless, as Wizards and Clerics can swap out prepared spells at any time, and ritual casting is not yet supported.  
+
+## Spell slots and upcasting ##
+Spell slots are used to cast spells. They're independent of the number of spells the caster knows and can prepare.  
+
+- The level of spell sets the minimum slot that can be used to cast the spell.  
+- Spells can be upcast or heightened using a higher-level slot.  
+	- Note that this is done at the moment of casting, *not* during preparation. 
+	- It also doesn't require a feat or special class ability.  If you have slots at multiple levels, you can upcast spells.  
+- For example, Cure Wounds is a level 1 spell.  
+	- Assuming the caster has Cure Wounds prepared, they can use any slot of level 1 or higher to cast Cure Wounds. 
+	- The description for Cure Wounds explains what happens when it is cast with a higher-level slot.  Many but not all spells have such a description.  
+- Spell slots are independent of which spells are prepared.  
+	- For example, a Cleric gets to prepare 5 spells for the day, and includes Cure Wounds among them.  If they want, they can spend *all* of their slots for the day casting Cure Wounds.  
 	
 ## Cantrips ##
 All primary spellcasters have access to damage-dealing cantrips.  Unless you have a melee combat subclass, these will generally do more damage than your weapon attacks.  
 
 ## Casting multiple spells per round ##
-A creature can cast only 1 spell per round *unless* they cast a cantrip with their action and another spell with their bonus action. 
+A creature can cast only 1 spell on their turn *unless* they cast a cantrip with their action and another spell with their bonus action. 
+
+- For example, Healing Word is a level 1 spell that takes a bonus action to cast.  
+	- So a character could cast Toll the Dead (cantrip, action) and Healing Word (level 1, bonus action).  
+	- But not Cure Wounds (level 1, action) and Healing Word (level 1, bonus action).
+- Only a few spells can be cast with a bonus action.  
+	- Sorcerers can use the Quicken Spell metamagic to cast a "action" spell with a bonus action.  
 
 ## Spellcasting and armor ##
 A PC can cast a spell while wearing armor if, and only if, the PC is proficient in the armor they're wearing.  
