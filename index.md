@@ -1,6 +1,6 @@
 ---
 title: From Pathfinder (and 3.x) to 5e 
-author: Dan Hicks
+author: Dan Hicks, <hicks.daniel.j@gmail.com>
 
 output:
   html_document:
@@ -256,3 +256,15 @@ TC adds a number of subclasses, class features, and variant class features desig
 - Fighters and Rangers have more fighting style options and the option to periodically switch out fighting styles.  
 - TC collects together and republishes spells, subclasses, and one class (Artificer) published in various setting book. 
 - Many of the spells and some of the subclasses are psychic themed. 
+
+
+# Player Freedom #
+(This section is more opinionated than the others.)
+
+Researching for this overview, I encountered several discussion threads that argued that [3P gives players more "freedom" than 5e](https://www.quora.com/What-do-experienced-tabletop-role-players-prefer-Starfinder-Pathfinder-or-D-D-5E/answer/Matthew-Routley).  The idea seems to be that, in order for their character to do a thing, in 3P a player simply needs to find the rule that enables them to do the thing.  There's relatively little room for DM interpretation or judgement in 3P.  By contrast, 5e is more dependent on DM interpretation or judgement.  For example, the DC checks for skill attempts will often be completely up to the DM.  This means that an adversarial DM has much more ability to frustrate players.  
+
+On the other hand, some players and DMs (like me!) find crunchy systems to be restrictive, not liberating, and find the flexibility of more narrative systems to be more freeing.  <!--<https://www.quora.com/Are-D-D-5E-rules-better-or-worse-than-Pathfinder-and-in-what-way?share=1>--> From this perspective, rather than spending a lot of time trying to find the exact rule that covers the thing that I want my PC to do — which might also require a complicated build for my PC to satisfy the prerequisites — my PC can simply do anything that makes narrative/dramatic sense.  The Powered by the Apocalypse system [doesn't even use the traditional turn structure](https://www.reddit.com/r/DungeonWorld/comments/hx565a/new_gm_needs_combat_advice/).  
+
+5e doesn't go as far as narrative systems like Fate or PbtA.  There's still opportunities for crunch-minded players to create (somewhat) complex builds based around feats or combat mechanics.  I think it's fair to see it as attempting to strike a balance between crunch and narrative flexibility.  
+
+To lean into this, you might try [building a "broken" PC](https://www.youtube.com/watch?v=LIp_p0z4J14&t=541s).  Create your PC so that they're sub-optimal at level 1, and move towards your optimal build gradually over the course of the campaign.  Portray this "weakness" in your PC's roleplay and narrative, and the movement towards your build as character development.  
